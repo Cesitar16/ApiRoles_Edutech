@@ -1,7 +1,7 @@
 package com.edutech.roles.services;
 
 import com.edutech.roles.dto.RolDTO;
-import com.edutech.roles.Models.Rol;
+import com.edutech.roles.models.Rol;
 import com.edutech.roles.repository.RolRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

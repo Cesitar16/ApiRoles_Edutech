@@ -1,4 +1,4 @@
-package com.edutech.roles.Models;
+package com.edutech.roles.models;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
