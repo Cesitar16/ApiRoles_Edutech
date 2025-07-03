@@ -1,7 +1,7 @@
 package com.edutech.roles;
 
-import com.edutech.roles.Models.Rol;
 import com.edutech.roles.dto.RolDTO;
+import com.edutech.roles.models.Rol;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
